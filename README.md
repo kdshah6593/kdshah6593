@@ -52,6 +52,12 @@ As a recent graduate of the Flatiron School who studied software engineering wit
 <br>
 <h3 align="center"> 
 
+<h3 align="center"> 
+Find Me Here:
+</h3>
+
+<h3 align="center"> 
+
 <a href="https://www.linkedin.com/in/kunalshah-6593/"> 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
 </a>
