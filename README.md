@@ -18,7 +18,7 @@ Hello and welcome to my GitHub!
 </h1>
 
 <h4 align="center">
-As a recent graduate of the Flatiron School who studied software engineering with a focus on Ruby on Rails and React.js, I love working through and solving problems (and don't mind fixing the occasional bug or two). I enjoy creating apps that are built around efficieny and productivity.
+As a recent graduate of the Flatiron School who studied software engineering with a focus on Ruby on Rails and React.js, I love working through and solving problems (and don't mind fixing the occasional bug or two). I enjoy creating apps that are built around efficiency and productivity.
 </h4>
 
 <p align="center">
