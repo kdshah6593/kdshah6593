@@ -21,9 +21,11 @@ Hello and welcome to my GitHub!
 As a recent graduate of the Flatiron School who studied software engineering with a focus on Ruby on Rails and React.js, I love working through and solving problems (and don't mind fixing the occasional bug or two). I enjoy creating apps that are built around efficieny and productivity.
 </h4>
 
+<p align="center">
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elijahsamuels&show_icons=true&theme=radical) -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elijahsamuels&layout=compact&theme=radical) -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdshah6593&layout=compact&theme=radical">
+</p>
 
 <br>
 <p align="center"> 
