@@ -23,7 +23,7 @@ As a recent graduate of the Flatiron School who studied software engineering wit
 
 <p align="center">
 <!-- ![Kunal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kdshah6593&show_icons=true&theme=radical) -->
-<img src="https://github-readme-stats.vercel.app/api?username=kdshah6593&show_icons=true&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api?username=kdshah6593&show_icons=true&theme=cobalt">
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kdshah6593&layout=compact&theme=radical) -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdshah6593&layout=compact&theme=radical">
 </p>
