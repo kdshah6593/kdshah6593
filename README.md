@@ -17,12 +17,11 @@ Here are some ideas to get you started:
 Hello and welcome to my GitHub!
 </h1>
 
-<p>
-  - 🔭 I’m currently working on an API for the Stormlight Archive Book Series similar to the Game of Thrones API
-  - 👯 I’m looking to collaborate on any projects where people need help, just looking to keep coding!
-  - ⚡ Fun fact: I am a diehard Pittsburgh Steelers and Pittsburgh Penguins fan
-  - 📫 How to reach me: You can reach out via email or message me via LinkedIn (link below); also check out my blog (link below)
-</p>
+- 🔭 I’m currently working on an API for the Stormlight Archive Book Series similar to the Game of Thrones API
+- 👯 I’m looking to collaborate on any projects where people need help, just looking to keep coding!
+- ⚡ Fun fact: I am a diehard Pittsburgh Steelers and Pittsburgh Penguins fan
+- 📫 How to reach me: You can reach out via email or message me via LinkedIn (link below); also check out my blog (link below)
+
 
 <h4 align="center">
 As a recent graduate of the Flatiron School who studied software engineering with a focus on Ruby on Rails and React.js, I love working through and solving problems (and don't mind fixing the occasional bug or two). I enjoy creating apps that are built around efficiency and productivity.
