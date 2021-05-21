@@ -74,5 +74,10 @@ Find Me Here:
 <a href="https://kdshah6593.medium.com/">
 <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="medium">
 </a>
+  
+<a href="https://kdshah6593.medium.com/">
+<img src="https://img.shields.io/badge/-Portfolio-orange?style=for-the-badge" alt="portfolio">
+</a>
+  
 
 </p>
