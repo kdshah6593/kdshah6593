@@ -18,7 +18,6 @@ Hello and welcome to my GitHub!
 </h1>
 
 - 🔭 I’m currently working on cool stuff at Hyperproof
-- 🔭 I’m currently working on a deal analyzer mobile app for Avestor, Inc.
 - 🤔 I’m looking for help with an API for the Stormlight Archive Book Series
 - 👯 I’m looking to collaborate on any projects where people need help, just looking to keep coding!
 - ⚡ Fun fact: I am a diehard Pittsburgh Steelers and Pittsburgh Penguins fan
@@ -26,7 +25,7 @@ Hello and welcome to my GitHub!
 
 
 <h4 align="center">
-Currently a Software Engineer at Hyperproof. A graduate of the Flatiron School. I studied software engineering with a focus on Ruby on Rails and React.js. I love working through and solving problems (and don't mind fixing the occasional bug or two). I enjoy creating apps that are built around efficiency and productivity.
+Currently a Software Engineer at Hyperproof. A graduate of the Flatiron School. I studied software engineering with a focus on React.js and RUby on Rails. I love working through and solving problems (and don't mind fixing the occasional bug or two). I enjoy creating apps that are built around efficiency and productivity.
 </h4>
 
 <p align="center">
