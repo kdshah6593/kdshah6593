@@ -25,7 +25,7 @@ Hello and welcome to my GitHub!
 
 
 <h4 align="center">
-Currently a Software Engineer at Hyperproof. A graduate of the Flatiron School. I studied software engineering with a focus on React.js and RUby on Rails. I love working through and solving problems (and don't mind fixing the occasional bug or two). I enjoy creating apps that are built around efficiency and productivity.
+Currently a Software Engineer at Hyperproof. A graduate of the Flatiron School. I studied software engineering with a focus on React.js and Ruby on Rails. I love working through and solving problems (and don't mind fixing the occasional bug or two). I enjoy creating apps that are built around efficiency and productivity.
 </h4>
 
 <p align="center">
@@ -40,11 +40,14 @@ Currently a Software Engineer at Hyperproof. A graduate of the Flatiron School. 
 <br>
 <p align="center"> 
 
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/Java-5382a1?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=5382a1&color=f89820">
+<img src="https://img.shields.io/badge/git-3E2C00?style=for-the-badge&logo=git">
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
 <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
